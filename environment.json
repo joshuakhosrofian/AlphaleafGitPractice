@@ -1,0 +1,39 @@
+{
+	"id": "38583547-1c7f-4920-b9e3-449cd866b34f",
+	"name": "To-do List Test",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://api-nodejs-todolist.herokuapp.com",
+			"enabled": true
+		},
+		{
+			"key": "userEmail",
+			"value": "philip10@yahoo.com",
+			"enabled": true
+		},
+		{
+			"key": "userPassword",
+			"value": "Soccer910",
+			"enabled": true
+		},
+		{
+			"key": "userSessionToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "userRegistrationToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "taskID",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-09-06T18:55:34.378Z",
+	"_postman_exported_using": "Postman/7.31.1"
+}
